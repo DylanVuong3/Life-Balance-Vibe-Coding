@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "Life Balance",
+    "slug": "life-balance",
+    "version": "1.0.0",
+    "sdkVersion": "53.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.yourname.lifebalance"
+    },
+    "android": {
+      "package": "com.yourname.lifebalance"
+    },
+    "plugins": [
+      "expo-notifications"
+    ]
+  }
+}
